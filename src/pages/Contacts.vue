@@ -6,7 +6,7 @@
     <div class="row">
       <div class="column">
         <div class="content">
-          <a target="_blank"  href="https://github.com/Emonity">
+          <a target="_blank"  href="https://github.com/Emonity/task_manager">
             <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Mountains">
           </a>
           <h3>GitHub</h3>
