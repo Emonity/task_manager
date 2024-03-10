@@ -1,8 +1,7 @@
 <template>
   <section>
-    <h1>LOGO.RU</h1>
+    <h1>Contacts</h1>
     <hr>
-    <h2>Контакты</h2>
     <div class="row">
       <div class="column">
         <div class="content">
